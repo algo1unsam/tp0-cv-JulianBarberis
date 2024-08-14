@@ -9,7 +9,7 @@ Bienvenido a mi reposiorio, mi nombre es Julián.
 ![Skyrim](/images/skyrim.jpg)
     
 2. The Witcher 3: Wild Hunt
-[The Witcher 3](//tw3.jpg)
+[The Witcher 3](/images/tw3.jpg)
 
 3. Black
 ![Black](/images/black.jpg)
